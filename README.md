@@ -69,7 +69,7 @@ To run this project locally:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/Avril-coder/Portfolio.git
 
 
 Navigate to the project folder:
